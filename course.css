@@ -1,0 +1,24 @@
+iframe{
+    border-radius: 30px;
+    width: 25%;
+    margin: 0 10px;
+}
+/* section nav{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; *
+} */
+section nav ul li{
+    list-style: none;
+    margin: 10px 30px;
+}
+section nav ul{
+    color: aliceblue;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* align-items: center; */
+}
